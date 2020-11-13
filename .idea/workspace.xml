@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ea784a4-ec98-48aa-be10-54d8d64aee13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
       <recent name="C:\Users\beerb\PhpstormProjects\untitled\routes" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.index.js">
+  <component name="RunManager" selected="Node.js.bin\www">
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -83,12 +80,24 @@
       <updated>1605176266774</updated>
       <workItem from="1605176268496" duration="737000" />
       <workItem from="1605177014580" duration="8513000" />
-      <workItem from="1605196950871" duration="5681000" />
+      <workItem from="1605196950871" duration="5997000" />
     </task>
+    <task id="LOCAL-00001" summary="fix">
+      <created>1605270604618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605270604618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="828" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605261238917">
@@ -99,6 +108,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="732" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1605184069297" />
+    <state x="236" y="97" width="1578" height="863" key="CommitChangelistDialog2" timestamp="1605270603871">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="236" y="97" width="1578" height="863" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1605270603871" />
     <state x="260" y="270" key="FileChooserDialogImpl" timestamp="1605197934912">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -111,22 +124,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="287" y="233" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605197987386" />
-    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1605198627873">
+    <state width="914" height="190" key="GridCell.Tab.0.bottom" timestamp="1605270864064">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605198627873" />
-    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1605198627872">
+    <state width="914" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605270864064" />
+    <state width="914" height="190" key="GridCell.Tab.0.center" timestamp="1605270864064">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605198627872" />
-    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1605198627872">
+    <state width="914" height="190" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605270864064" />
+    <state width="914" height="190" key="GridCell.Tab.0.left" timestamp="1605270864064">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605198627872" />
-    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1605198627872">
+    <state width="914" height="190" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605270864064" />
+    <state width="914" height="190" key="GridCell.Tab.0.right" timestamp="1605270864064">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605198627872" />
+    <state width="914" height="190" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605270864064" />
     <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1605185736256">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -179,10 +192,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605197416905" />
-    <state x="1032" y="261" key="Vcs.Push.Dialog.v2" timestamp="1605270550943">
+    <state x="1032" y="261" key="Vcs.Push.Dialog.v2" timestamp="1605270606565">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1032" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605270550943" />
+    <state x="1032" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605270606565" />
     <state x="1103" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1605178263900">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

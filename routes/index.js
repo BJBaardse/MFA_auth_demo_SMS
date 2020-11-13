@@ -1,5 +1,6 @@
-var mysql = require('mysql');
 var express = require('express');
+var router = express.Router();
+var mysql = require('mysql');
 var session = require('express-session');
 var bodyParser = require('body-parser');
 var path = require('path');
@@ -87,4 +88,5 @@ app.post('/verify', function(request, response){
     });
 });
 
-app.listen(3000);
+module.exports = router;
+app.listen(80);
