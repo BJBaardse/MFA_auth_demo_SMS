@@ -40,6 +40,7 @@ app.post('/auth', function(request, response,cb) {
 
                 authy.request_sms(results[0].authyid,true, function (err, res) {
                     console.log(res);
+                    console.log(err);
                 });
                 response.redirect('/2fa');
             } else {
